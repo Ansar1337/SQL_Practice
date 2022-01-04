@@ -1,6 +1,6 @@
 # SQL PRACTICE
 
-### SQL Practice №3 | The Movies
+### SQL Practice №4 | The Movies
 
 #### Relational Schema
 
